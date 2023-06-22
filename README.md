@@ -79,4 +79,4 @@ I am a Data Science Enthusiast :scientist: from India.
 
 <Displaying the most used languages>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhoshAnujit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?GhoshAnujit=anuraghazra&hide_progress=true)
