@@ -1,14 +1,8 @@
-<First Section>
-
-<Adding the Capgemini logo>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="120"/>
 </div>
 
-<Creating the badges>
-
-<div id="badges" align = "center">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anujit-ghosh007/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -20,63 +14,48 @@
   </a>
 </div>
 
-<Adding the profile views counter>
-
-<div id="badges" align = "center">
-<img src="https://komarev.com/ghpvc/?username=GhoshAnujit&style=flat-square&color=blue" alt=""/>
+<div id="badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=GhoshAnujit&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-<h1 align = "center">
+
+<h1 align="center">
   Hi!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Anujit Ghosh. :slightly_smiling_face:
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm Anujit Ghosh.
 </h1>
-
-  </br>
-<Second Section>
-
-<Main GIF>
 
 <div align="center">
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<About me>
+### About Me :
 
+I am a Backend Engineer in the making with a strong interest in Machine Learning and Blockchain.
+- **Currently working at Amazon**, focusing on ML prompt engineering and evaluation of LLMs.
+- **Developing scalable backend systems** using Python (Django, FastAPI) and exploring system design.
+- **Diving deep into GraphQL, Docker, and cloud deployments.
+- **Guitarist in progress** and always curious to learn new things.
 
-### :man_technologist: About Me :
-
-I am a Data Science Enthusiast :scientist: from India.
-- :telescope: I am currently pursuing Masters in Data Science from Christ University and I'm open to Intern in Data Science and Software development roles.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on leetcode and read Data Science articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AnujitGhosh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anujit-ghosh007/)
-
-<Languages and tools>
+📫 **How to reach me:** [![Linkedin Badge](https://img.shields.io/badge/-AnujitGhosh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anujit-ghosh007/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="RStudio"  alt="R" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="RStudio"  alt="R" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-
-<Adding Github Stats>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GhoshAnujit&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
-<Displaying the most used languages>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/GhoshAnujit=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhoshAnujit&layout=compact&theme=prussian&exclude_repo=jupyter-notebook)
